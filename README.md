@@ -18,3 +18,6 @@ A prototype for COVID Assisstant app
 - A systematic way for people to report their symptoms.
 - Better tracking functionality
 
+## Links
+- <a href="https://youtu.be/XprzsWOoZdY">Youtube demo video</a>
+- <a href="https://www.figma.com/file/9sw0pTPCHMenrxWIhUxOiu/Assignment2-WeiBinWang?node-id=55%3A94">Figma Design</a>
