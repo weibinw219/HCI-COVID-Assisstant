@@ -9,6 +9,7 @@ A prototype for COVID Assisstant app
 - Always online volunteer service for people in need
 - Guildlines on how to prevent COVID
 
+![alt text](https://github.com/weibinw219/HCI-COVID-Assisstant/blob/main/HCI%20Screenshot.jpg?raw=true)
 
 
 ## Top 5 desirable features
